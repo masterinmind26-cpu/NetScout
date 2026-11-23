@@ -1,5 +1,5 @@
 Selam bu tools yapmak 3 gün aldı bu tools bir ağ taram aracıdır içinde nmap, masscan, zeek, Wıreshark, OPENVAS gibi araçlar vardır amma unutmayın izniniz olduğu yerlerde kullanınız şimdiden teşekkür ederim 
-
+------------------------------------------------------------
 <h2>Termux (Android)</h2>
 <pre>
 pkg update -y && pkg install -y git python
