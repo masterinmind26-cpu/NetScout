@@ -1,10 +1,4 @@
-<!doctype html>
-<html lang="tr">
-<head>
-<meta charset="utf-8">
-<title>NetScout GitHub Komutları</title>
-</head>
-<body>
+Selam bu tools yapmak 3 gün aldı bu tools bir ağ taram aracıdır içinde nmap, masscan, zeek, Wıreshark, OPENVAS gibi araçlar vardır amma unutmayın izniniz olduğu yerlerde kullanınız şimdiden teşekkür ederim 
 
 <h2>Termux (Android)</h2>
 <pre>
